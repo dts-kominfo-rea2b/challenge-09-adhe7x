@@ -1,0 +1,16 @@
+hr {
+    border-top: 5px dashed blue;
+    width: 40%;
+}
+
+h1 {
+    background-color: #86E7B8;
+    border-radius: 10px;
+    margin: 20px 30% 20px 30%;
+}
+
+h3 {
+    background-color: #86E7B8;
+    border-radius: 5px;
+    margin: 20px 30% 20px 30%;
+}

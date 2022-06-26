@@ -1,0 +1,30 @@
+img {
+    width: 100px;
+    border-radius: 50%;
+  }
+  
+.card {
+    width: 30%;
+    background-color: #93FF96;
+    float: center;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    box-shadow: 5px 5px 5px 5px gray;
+}
+  
+.card > div {
+    line-height: 0px;
+    margin: 5px 15px;
+}
+  
+.photo {
+    width: 60%;
+}
+  
+.detail {
+    width: 100%;
+}
+  
