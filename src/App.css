@@ -1,4 +1,6 @@
-.App {
+.app {
   text-align: center;
-  display: flex;
+  display: grid;
+  background-color:#D0FFB7;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
